@@ -1,2 +1,5 @@
 Git and GitHub Training for Amend Function
 
+Instered some more lines after
+
+the initial commit
